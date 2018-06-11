@@ -1,5 +1,3 @@
-# hello-world
-
-Just another repository
-
-Just trying to learn GitHub
+require(devtools)
+install_github("BillPetti/baseballr")
+require(baseballr)
